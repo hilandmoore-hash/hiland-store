@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#e7e5e1"/>
+  <path d="M0 0 L400 300 M400 0 L0 300" stroke="#d4d2cd" stroke-width="1"/>
+  <rect x="150" y="120" width="100" height="60" fill="none" stroke="#6b7280" stroke-width="2"/>
+  <text x="200" y="210" font-family="Arial Narrow, sans-serif" font-size="14" fill="#6b7280" text-anchor="middle" letter-spacing="2">PHOTO PENDING</text>
+</svg>
